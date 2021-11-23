@@ -1,2 +1,2 @@
 from tkinter import *
-import math as m
+import math as mt
