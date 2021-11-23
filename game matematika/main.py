@@ -1,4 +1,4 @@
-# System
+# Game System
 import game
 
 # Data Mode Awal Game
