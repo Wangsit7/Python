@@ -1,3 +1,4 @@
+# someone else's code
 from typing import Text
 import pygame
 from sys import exit
