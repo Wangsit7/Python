@@ -1,3 +1,5 @@
+# someone else's code
+
 import pygame
 import random
 
